@@ -1,0 +1,38 @@
+﻿  Source.cpp
+c:\users\someone\source\repos\proj1\a\a\sidebar.h(60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\someone\source\repos\proj1\a\a\visualiser.h(27): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\someone\source\repos\proj1\a\a\visualiser.h(43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\someone\source\repos\proj1\a\a\visualiser.h(44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\someone\source\repos\proj1\a\a\visualiser.h(45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\someone\source\repos\proj1\a\a\source.cpp(116): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\someone\source\repos\proj1\a\a\source.cpp(117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\someone\source\repos\proj1\a\a\source.cpp(117): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  a.vcxproj -> C:\Users\Someone\source\repos\proj1\a\Debug\a.exe
